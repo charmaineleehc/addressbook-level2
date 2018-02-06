@@ -11,7 +11,7 @@ public class Block {
     /**
      * Returns block number of address
      */
-    public String getBlockNum() {
+    public String getBlockNo() {
         return blockNo;
     }
 
