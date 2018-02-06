@@ -16,7 +16,7 @@ public class Address {
     private boolean isPrivate;
 
     public final Block block;
-    public final Street street
+    public final Street street;
     public final Unit unit;
     public final PostalCode postalCode;
     private final static String DELIMITER = ",";
